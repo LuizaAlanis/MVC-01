@@ -8,7 +8,7 @@
   <li>Criei um Controller de mesmo nome que o pré-existente (e o substitui)</li>
   <li>Criei uma nova view de mesmo nome que a pré-existente e com o layout vazio</li>
   <li>Usei uma tag de texto h1</li>
-  <li>Rodei o projeto</li>
+  <li>Rodei o projeto no meu navegador (Edge no caso)</li>
   <li>O diretório apareceu como localhost:numeros/Home/Index</li>
   <li>Que é o mesmo que somente localhost:numeros (pois é configurada como rota padrão)</li>
 </ul>
